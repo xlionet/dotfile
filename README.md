@@ -26,3 +26,9 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
  - [c++/go/py] some language supoort
  - [one dark pro] a theam
  - [gitlens] Supercharge the Git capabilities built
+
+ ## Alfred
+    faster than inner search
+
+## IStat Menus
+    more like windows
