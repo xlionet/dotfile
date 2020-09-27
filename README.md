@@ -12,9 +12,13 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 - Fish-like autosuggestions for zsh
 [Auto-Suggestion](https://github.com/zsh-users/zsh-autosuggestions)
 
+## ZshSyntaxHighlighting
+- [Fish shell like syntax highlighting for Zsh](https://github.com/zsh-users/zsh-syntax-highlighting)
+
 ## Auto Jump
 - A cd command
 [auto jump](https://github.com/wting/autojump)
+
 
 ## Sketch 
  - graph design
